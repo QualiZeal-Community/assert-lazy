@@ -6,7 +6,7 @@
 
     <groupId>com.qualizeal.community</groupId>
     <artifactId>assert-lazy</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
 
     <name>assert-lazy</name>
     <description>junit jupiter style assertion for functional automation</description>
